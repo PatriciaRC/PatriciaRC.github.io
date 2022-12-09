@@ -1,5 +1,5 @@
 {
-  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "$schema": "node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -53,8 +53,8 @@
             ],
             "styles": [
               "src/styles.scss",
-              "/Users/patricia/Desktop/angular/proyecto-portfolio1/node_modules/bulma/css/bulma.css",
-              "/Users/patricia/Desktop/angular/proyecto-portfolio1/node_modules/font-awesome/css/font-awesome.css"
+              "Users/patricia/Desktop/angular/proyecto-portfolio1/node_modules/bulma/css/bulma.css",
+              "Users/patricia/Desktop/angular/proyecto-portfolio1/node_modules/font-awesome/css/font-awesome.css"
             ],
             "scripts": []
           },
