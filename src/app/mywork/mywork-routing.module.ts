@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { MyworklistComponent } from '../myworklist/myworklist.component';
-import { Y2020Component } from './y2020/y2020.component';
-import { Y2021Component } from './y2021/y2021.component';
-import { Y2022Component } from './y2022/y2022.component';
+import { MyworklistComponent } from 'myworklist/myworklist.component';
+import { Y2020Component } from 'y2020/y2020.component';
+import { Y2021Component } from 'y2021/y2021.component';
+import { Y2022Component } from 'y2022/y2022.component';
 
 const routes: Routes = [
 {
